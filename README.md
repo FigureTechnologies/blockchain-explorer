@@ -1,5 +1,9 @@
 # Hyperledger Explorer
 
+This is Figure Technology version of blockchain explorer, meant to work with figure hyperledger fabric network
+
+TODO:dockerize
+
 Hyperledger Explorer is a simple, powerful, easy-to-use, highly maintainable, open source browser for viewing activity on the underlying blockchain network.
 
 ## Directory Structure
